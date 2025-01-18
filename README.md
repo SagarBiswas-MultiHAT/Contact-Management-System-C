@@ -42,3 +42,6 @@ This Contact Management System is a command-line application that allows users t
 
 Contributions are welcome! Please fork the repository and submit a pull request.
 
+
+# 🚀 Contact Management System in C is Here! 🚀
+# 🔐 Features:
